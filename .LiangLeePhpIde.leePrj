@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DOCUMENT Type="Liang Lee PHP IDE" CreateVersion="2.3.3" version="2.3.2" Modules="professional" RootPath="." Language="cn">
+  <COMPONENT cid="liang.lee.php.elgg">
+    <PRJ Property="BUILDTYPE" MultiBuildValue="Default"/>
+    <PRJ Property="SERVERTYPE" Value="UNIX"/>
+    <PRJ Property="ARPCOMMENTS" Value="Hide Search from Non-Logged in Users , a settings base plugin." ValueLocId="*"/>
+    <PRJ Property="REPAIR" Value="elgg"/>
+    <PRJ Property="SYSTEMCOMPONENT" Value="elgg"/>
+    <PRJ Property="Manufacturer" Value="Liang Lee" ValueLocId="*"/>
+    <PRJ Property="ProductCode" Value="9872:{B5583591-LEE-4BF2-53BD-LEHS100}" Type="5"/>
+    <PRJ Property="ProductLanguage" Value="2057"/>
+    <PRJ Property="ProductName" Value="LiangLeeHideSearch" ValueLocId="*"/>
+    <PRJ Property="ProductVersion" Value="1.0.0"/>
+  </COMPONENT>
